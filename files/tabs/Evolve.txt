@@ -9,7 +9,7 @@ E-|-------------|
 
 Chords:
 
-     Db  Ab  Db  F#  Db  Ab  F#  Db            
+     Db  Ab  Db  Gb  Db  Ab  Gb  Db            
 e-|--------------(6)---------(6)------|
 b-|---6---9---6---7---6---9---7---6---|
 g-|---6---8---6---6---6---8---6---6---|	
@@ -21,11 +21,11 @@ Same chord progression repeats throughout entire song
 
 Db                        Ab
 I paused a moment once in time
-Db                      F#
+Db                      Gb
 Before the sun began to shine
 Db                           Ab
 To weigh the choice I had to make
-F#                        Db
+Gb                        Db
 And therein lies my first mistake
 
   Piano Interlude
@@ -49,13 +49,13 @@ Ab
 Then came the worlds that can never slow down
 Db
 Then came the people with problems and hope
-F#
+Gb
 That don't mean a thing, if they just knew the scope 
 Db
 First came the light, then came the sound
 Ab
 Then came the worlds that can never slow down
-F#
+Gb
 Then came the people with problems and hope
 Db
 That don't mean a thing, if they just knew the scope 
